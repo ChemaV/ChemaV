@@ -1,11 +1,12 @@
-Hello There!  🌱 
+## Hello There!  🌱 
 
 <p align="right">
   <img src="https://github.com/ChemaV/ChemaV/blob/main/giphy.gif"/>
 </p>
 
+<br>
 
-I am 
+ I am 
 <br>
 - 🌍 📡 Full Stack Web Developer 
 - 💭 📐 Sociologist
