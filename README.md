@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/ChemaV/ChemaV/assets/13006485/2b34df90-63f9-4805-b65f-0af97b94c21b)
+
+
 <!--
 **ChemaV/ChemaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
