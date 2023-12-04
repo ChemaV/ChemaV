@@ -1,14 +1,19 @@
-Hello There! 🌱 
+Hello There!  🌱 
 
 I am 
 <br>
-🌍 📡 Full Stack Web Developer 
+- 🌍 📡 Full Stack Web Developer 
+- 💭 📐 Sociologist
+- 🔧 💻 IT Technician
+- 📷 🎥 Video and Photo producer
+
 <br>
-💭 📐 Sociologist
-<br>
-🔧 💻 IT Technician
-<br>
-📷 🎥 Video and Photo producer
+
+- 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS, etc 🌀
+- 📚 Learning everything about inmersive technologies; Virtual Reality, Aumented Reality, Mixed Reality 😉
+- 💪🏼 Future Goals: Be a great developer - Never stop creating new ideas 👽
+- ⚡ Fun fact: I love japanese food, electronic music and losing myself in nature 🌳 
+
 
 <br>
 
